@@ -1,1 +1,62 @@
+course_id,course_name,department,level,delivery_mode,credits,duration_weeks,rating,tuition_fee_inr,year_offered
+1,Introduction to Computer Science,Computer Science,UG,online,4,12,4.5,45000,2024
+2,Data Structures and Algorithms,Computer Science,UG,offline,4,14,4.3,50000,2024
+3,Machine Learning,Computer Science,PG,hybrid,6,16,4.7,90000,2024
+4,Database Systems,Computer Science,UG,offline,4,12,4.2,48000,2024
+5,Artificial Intelligence,Computer Science,PG,online,6,16,4.6,95000,2024
+6,Calculus I,Mathematics,UG,offline,4,12,4.1,40000,2024
+7,Calculus II,Mathematics,UG,offline,4,12,4.2,42000,2024
+8,Linear Algebra,Mathematics,UG,online,4,10,4.0,43000,2024
+9,Statistics for Data Science,Mathematics,PG,hybrid,6,14,4.5,75000,2024
+10,Abstract Algebra,Mathematics,PG,offline,6,14,4.3,72000,2024
+11,Principles of Economics,Economics,UG,offline,3,10,4.1,35000,2024
+12,Microeconomics,Economics,UG,online,3,10,4.2,37000,2024
+13,Macroeconomics,Economics,UG,offline,3,10,4.0,36000,2024
+14,International Trade,Economics,PG,hybrid,6,14,4.4,80000,2024
+15,Econometrics,Economics,PG,offline,6,16,4.5,85000,2024
+16,Introduction to Psychology,Psychology,UG,offline,3,10,4.3,38000,2024
+17,Cognitive Psychology,Psychology,UG,online,3,12,4.2,40000,2024
+18,Developmental Psychology,Psychology,UG,hybrid,3,12,4.1,42000,2024
+19,Social Psychology,Psychology,PG,offline,6,14,4.5,78000,2024
+20,Clinical Psychology,Psychology,PG,hybrid,6,16,4.6,90000,2024
+21,Introduction to Business,Business,UG,offline,3,10,4.0,35000,2024
+22,Marketing Fundamentals,Business,UG,online,3,12,4.1,36000,2024
+23,Financial Accounting,Business,UG,offline,3,12,4.2,37000,2024
+24,Human Resource Management,Business,PG,hybrid,6,14,4.4,78000,2024
+25,Strategic Management,Business,PG,offline,6,16,4.5,82000,2024
+26,General Biology,Biology,UG,offline,4,12,4.1,42000,2024
+27,Cell Biology,Biology,UG,online,4,12,4.2,43000,2024
+28,Genetics,Biology,UG,hybrid,4,12,4.3,44000,2024
+29,Molecular Biology,Biology,PG,offline,6,16,4.6,88000,2024
+30,Biochemistry,Biology,PG,hybrid,6,16,4.5,87000,2024
+31,Organic Chemistry,Chemistry,UG,offline,4,12,4.1,41000,2024
+32,Inorganic Chemistry,Chemistry,UG,online,4,12,4.0,42000,2024
+33,Physical Chemistry,Chemistry,UG,hybrid,4,12,4.2,43000,2024
+34,Analytical Chemistry,Chemistry,PG,offline,6,16,4.4,84000,2024
+35,Environmental Chemistry,Chemistry,PG,hybrid,6,16,4.3,82000,2024
+36,Introduction to Physics,Physics,UG,offline,4,12,4.1,40000,2024
+37,Mechanics,Physics,UG,online,4,12,4.2,42000,2024
+38,Electromagnetism,Physics,UG,hybrid,4,12,4.3,43000,2024
+39,Quantum Mechanics,Physics,PG,offline,6,16,4.6,88000,2024
+40,Thermodynamics,Physics,PG,hybrid,6,16,4.5,85000,2024
+41,English Literature I,English,UG,offline,3,10,4.0,32000,2024
+42,English Literature II,English,UG,online,3,10,4.1,33000,2024
+43,Creative Writing,English,UG,hybrid,3,12,4.2,34000,2024
+44,Linguistics,English,PG,offline,6,16,4.3,75000,2024
+45,Shakespeare Studies,English,PG,hybrid,6,16,4.4,76000,2024
+46,World History,History,UG,offline,3,10,4.1,30000,2024
+47,Modern History,History,UG,online,3,10,4.0,31000,2024
+48,Ancient Civilizations,History,UG,hybrid,3,12,4.2,32000,2024
+49,European History,History,PG,offline,6,16,4.3,70000,2024
+50,American History,History,PG,hybrid,6,16,4.2,68000,2024
+51,Introduction to Sociology,Sociology,UG,offline,3,10,4.0,35000,2024
+52,Cultural Sociology,Sociology,UG,online,3,10,4.1,36000,2024
+53,Urban Sociology,Sociology,UG,hybrid,3,12,4.2,37000,2024
+54,Gender Studies,Sociology,PG,offline,6,16,4.4,78000,2024
+55,Social Theory,Sociology,PG,hybrid,6,16,4.3,77000,2024
+56,Political Science,Political Science,UG,offline,3,10,4.0,34000,2024
+57,International Relations,Political Science,UG,online,3,12,4.2,35000,2024
+58,Public Policy,Political Science,UG,hybrid,3,12,4.1,36000,2024
+59,Comparative Politics,Political Science,PG,offline,6,16,4.4,79000,2024
+60,Political Philosophy,Political Science,PG,hybrid,6,16,4.5,80000,2024
 
