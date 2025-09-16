@@ -12,7 +12,7 @@ def ask_ai(question: dict, db: Session = Depends(get_db)):
 
     filters = {}
 
-    # 🎯 Rule-based parsing
+    #  Rule-based parsing
 
     # 1) Level (UG / PG)
     if "ug" in q or "undergraduate" in q:
